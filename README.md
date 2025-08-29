@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name is Henrique França.</h2>
+<h2 align="left">Hello! My name Henrique França, and I'm studying for Cybersecurity.</h2>
 
 ###
 
@@ -11,15 +11,11 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://i.pinimg.com/736x/e2/b8/83/e2b88386ccabd898f29bf20ff4dce362.jpg"  />
 
 ###
 
@@ -36,6 +32,12 @@
   <a href="https://tryhackme.com/p/Surufel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://i.pinimg.com/736x/3d/2a/f8/3d2af88a316f6e74cefa3872e74371e0.jpg"  />
 </div>
 
 ###
