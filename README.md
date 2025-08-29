@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name Henrique França, and I'm studying for Cybersecurity.</h2>
+<h2 align="left">Hello! My name is Henrique França. </h2>
 
 ###
 
