@@ -36,8 +36,4 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/736x/3d/2a/f8/3d2af88a316f6e74cefa3872e74371e0.jpg"  />
-</div>
-
 ###
