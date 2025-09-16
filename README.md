@@ -3,7 +3,7 @@
 ### **About me:**
 - 😊 Pronouns: He/Him
 - 🖥️ Software Engineering Undergraduate.
-- 👨‍💻 Currently starting in Cybersecurity, trying to go as an ethical hacker, by learning the fundamentals and politics. As soon I advance with my studies, I may develop some projects.
+- 👨‍💻 Currently starting in Cybersecurity, trying to go as an ethical hacker, by learning the fundamentals. As soon I advance with my studies, I may develop some projects.
 
 ###
 
