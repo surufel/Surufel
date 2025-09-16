@@ -1,9 +1,11 @@
-<h2 align="left">Hello! My name is Henrique França. </h2>
+<h2 align="left">Hello! My name Henrique França, and I'm studying for Cybersecurity.</h2>
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surufel&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surufel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surufel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -31,7 +33,5 @@
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
 </div>
-
-###
 
 ###
