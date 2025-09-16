@@ -2,7 +2,7 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surufel)](https://github.com/surufel/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surufel&show_icons=true&theme=transparent)
 
 ###
 
