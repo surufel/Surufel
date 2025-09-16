@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1165464486279401572/1417358445719326750/myocsurufel.gif?ex=68ca316a&is=68c8dfea&hm=d64dd282f3d5e113c1676cc7884ac91c48e6061563f8d265d0148ef77d150229"/>
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1165464486279401572/1417567775941201970/myoc.gif?ex=68caf45e&is=68c9a2de&hm=2c893f6d3f376e746a375675293c557f4ee13c02feab8aefcfbc55fec6eb18b5&"/>
 
 ###
 
