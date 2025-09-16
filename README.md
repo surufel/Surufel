@@ -32,6 +32,7 @@
   <a href="https://tryhackme.com/p/Surufel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
+  <img align="right" alt="Surufel-oc" src="https://cdn.discordapp.com/attachments/1165464486279401572/1417358445719326750/myocsurufel.gif">
 </div>
 
 ###
