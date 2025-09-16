@@ -34,7 +34,4 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Surufel-oc" src="https://cdn.discordapp.com/attachments/1165464486279401572/1417358445719326750/myocsurufel.gif">
-</div>
 ###
