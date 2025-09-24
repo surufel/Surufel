@@ -1,9 +1,9 @@
-<h2 align="left">My name is Henrique França, and I'm studying for Cybersecurity.</h2>
+<h2 align="left">Hello! My name is Henrique França.</h2>
 
 ### **About me:**
 - 😊 Pronouns: He/Him
 - 🖥️ Software Engineering Undergraduate.
-- 👨‍💻 Currently starting in Cybersecurity, trying to go as an ethical hacker, by learning the fundamentals. As soon I advance with my studies, I may develop some projects.
+- 👨‍💻 Currently starting in Cybersecurity, trying to go as an Ethical Hacker, by learning the fundamentals. As soon I advance with my studies, I may develop some projects.
 
 ###
 
