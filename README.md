@@ -28,7 +28,7 @@ CIA Triad, ISO 27001, NIST, Social Engineering, LGPD (Lei Geral de Proteção de
 ### 🛠️ Tools
 Git, Bash scripting, Linux (Debian, Ubuntu, Arch), SQL (MySQL).
 
-## 🌐 Network & Infrastructure
+### 🌐 Network & Infrastructure
 TCP/IP protocols, HTTP/S, Firewall Configuration (ufw), IPv4/IPv6, OSI Model.
 
 ### 📖 Methodologies:
