@@ -1,8 +1,8 @@
 # printf("Hello! My name is Henrique França.\n");
 
-### **Cybersecurity Student & Software Engineering Student.**
+### **Cybersecurity & Software Engineering Student.**
 I'm a academic of Software Engineering with profound interest in low-level programming and Cybersecurity. Through clean and efficient code, I dedicate to master threat intelligence, penetration testing and incident response while sharing 
-technical insights to contribute to the global security community. Proactively seeking to bridge the gap between complex software development and advanced network protection to accelerate my career growth in the SOC and Red Teaming fields
+technical insights to contribute to the global security community. Proactively seeking to bridge the gap between complex software development and advanced network protection to accelerate my career growth in the SOC and Red Team fields.
 
 ---
 
