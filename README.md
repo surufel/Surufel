@@ -20,15 +20,24 @@ technical insights to contribute to the global security community. Proactively s
 ## 💻 Tech Stack:
 
 ### 🧠 Languages
-C, C++, Java, Python, MySQL, Bash scripting.
+C, C++, Java, Python
 
 ### 🎭 Cybersecurity
-CIA Triad, ISO 27001, NIST, Social Engineering, Nmap.
+CIA Triad, ISO 27001, NIST, Social Engineering, LGPD (Lei Geral de Proteção de Dados), Nmap.
 
 ### 🛠️ Tools
-Git & GitHub
+Git, Bash scripting, Linux (Debian, Ubuntu, Arch), SQL (MySQL).
 
-### Soft Skills:
+## 🌐 Network & Infrastructure
+TCP/IP protocols, HTTP/S, Firewall Configuration (ufw), IPv4/IPv6, OSI Model.
+
+### 📖 Methodologies:
+Agile Methodologies, Scrum.
+
+### 🧩 Collaboration Tools:
+Jira, Trello.
+
+### 🤝🏻 Soft Skills:
 Leadership, Communication, Problem-solving, Adaptability.
 
 ---
@@ -44,7 +53,7 @@ Leadership, Communication, Problem-solving, Adaptability.
 
 ---
 
-## 🌐 Socials:
+## 🔍 Socials:
 1. 💼 **LinkedIn:** [https://www.linkedin.com/in/henriquefrancasmm/](https://www.linkedin.com/in/henriquefrancasmm/)
 2. 🧑🏻‍💻 **GitHub:**  [https://github.com/surufel](https://github.com/surufel)
 3. 💼 **Instagram:** [https://instagram.com/henriquefra.cybersec/](https://instagram.com/henriquefra.cybersec/)
