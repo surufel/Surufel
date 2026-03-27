@@ -1,8 +1,7 @@
 # printf("Hello! My name is Henrique França.\n");
 
 ### **Cybersecurity & Software Engineering Student.**
-I'm a academic of Software Engineering with profound interest in low-level programming and Cybersecurity. Through clean and efficient code, I dedicate to master threat intelligence, penetration testing and incident response while sharing 
-technical insights to contribute to the global security community. Proactively seeking to bridge the gap between complex software development and advanced network protection to accelerate my career growth in the SOC and Red Team fields.
+I'm a academic of Software Engineering with profound interest in low-level programming and Cybersecurity. Through clean and efficient code, I dedicate to master threat intelligence, monitoring and IDS/IPS tools, incident response while sharing technical insights. I am looking for SOC and Blue Team roles.
 
 ---
 
@@ -10,9 +9,8 @@ technical insights to contribute to the global security community. Proactively s
 
 * 😊 - Pronouns: He/Him
 * 🕒 - Age: 20
-* 🖥️ - Undergratuading Software Engineering at Instituto de Ensino Superior iCEV.
+* 🖥️ - Undergratuading Software Engineering.
 * 📈 - Passionate at learning new tools, threats and ways to defend against them.
-* 🕷 - I find myself in the gothic subculture. 
 * λ - My favourite game at the moment is Half-Life.
 
 ---
@@ -20,22 +18,16 @@ technical insights to contribute to the global security community. Proactively s
 ## 💻 Tech Stack:
 
 ### 🧠 Languages
-C, C++, Java, Python
+C, C++, Java, Python, Rust
 
 ### 🎭 Cybersecurity
-CIA Triad, ISO 27001, NIST, Social Engineering, LGPD (Lei Geral de Proteção de Dados), Nmap.
+PCI DSS, ISO 27001, NIST RMF & CSF, LGPD (Lei Geral de Proteção de Dados).
 
 ### 🛠️ Tools
 Git, Bash scripting, Linux (Debian, Ubuntu, Arch), SQL (MySQL).
 
 ### 🌐 Network & Infrastructure
-TCP/IP protocols, HTTP/S, Firewall Configuration (ufw), IPv4/IPv6, OSI Model.
-
-### 📖 Methodologies:
-Agile Methodologies, Scrum.
-
-### 🧩 Collaboration Tools:
-Jira, Trello.
+TCP/IP protocols, OSI and TCP/IP Model, Network Segmentation, Network Hardening.
 
 ### 🤝🏻 Soft Skills:
 Leadership, Communication, Problem-solving, Adaptability.
@@ -54,6 +46,4 @@ Leadership, Communication, Problem-solving, Adaptability.
 ---
 
 ## 🔍 Socials:
-1. 💼 **LinkedIn:** [https://www.linkedin.com/in/henriquefrancasmm/](https://www.linkedin.com/in/henriquefrancasmm/)
-2. 🧑🏻‍💻 **GitHub:**  [https://github.com/surufel](https://github.com/surufel)
-3. 💼 **Instagram:** [https://instagram.com/henriquefra.cybersec/](https://instagram.com/henriquefra.cybersec/)
+💼 **LinkedIn:** [https://www.linkedin.com/in/henriquefrancasmm/](https://www.linkedin.com/in/henriquefrancasmm/)
