@@ -18,13 +18,14 @@ I'm a academic of Software Engineering with profound interest in low-level progr
 ## 💻 Tech Stack:
 
 ### 🧠 Languages
-C, C++, Java, Python, Rust
+C/C++, Java, Python, Rust
+Besides programming languages, I also know Shell Scripting and SQL.
 
 ### 🎭 Cybersecurity
 PCI DSS, ISO 27001, NIST RMF & CSF, LGPD (Lei Geral de Proteção de Dados).
 
 ### 🛠️ Tools
-Git, Bash scripting, Linux (Debian, Ubuntu, Arch), SQL (MySQL).
+Wireshark
 
 ### 🌐 Network & Infrastructure
 TCP/IP protocols, OSI and TCP/IP Model, Network Segmentation, Network Hardening.
